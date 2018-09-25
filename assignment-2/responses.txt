@@ -1,0 +1,18 @@
+1. Briefly describe one way how data travels on the internet.
+
+    *Data travels through the internet by bits through electricity, light and radio waves.
+
+
+2. What is the relationship between an IP address and the DNS?
+
+  *The IP  address is the physical location of the server/website that is made out of numbers that correlates with bits and the DNS is the name that we can type into our computer for it to find the IP address.
+
+
+3. What is a cookie?
+
+  *Data the website stores to remember who you are.
+
+
+4. List the the three basic parts of a URL.
+
+  *protocol, domain name and path
