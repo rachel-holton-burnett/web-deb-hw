@@ -4,4 +4,4 @@ A version control system allows users to make changes and upload them for storag
 
 My [responses](./responses.txt)
 
-My [screenshot](./holton-screenshot.PNG)
+My [screenshot](./images/holton-screenshot.PNG)
