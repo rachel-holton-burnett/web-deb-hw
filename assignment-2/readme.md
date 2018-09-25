@@ -6,6 +6,6 @@ My [responses](./responses.txt)
 
 My [screenshot](./images/holton-screenshot.PNG)
 
-I did have some problems with this weeks assignment. At first I had too many spaces in link and between the description and the link. I also had trouble getting the screenshot to link and I'm not sure why. I was not able to get it correctly. 
+I did have some problems with this weeks assignment. At first I had too many spaces in link and between the description and the link. I also had trouble getting the screenshot to link and I'm not sure why. I honestly don't know what I did to get it to work, nothing is different from when I tried it before. 
 
 I also had a difficult time with creating a list for the responses page but I reviewed the markdown list to see what happened.
