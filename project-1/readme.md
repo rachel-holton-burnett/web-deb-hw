@@ -10,4 +10,4 @@ The only issue I had on this assignment was putting the picture. I wasn't sure i
 
 I took web design courses in junior high and high school and used to customize my myspace page and a blog. This was all close to 15 years ago so it's slowing coming back to me. I started doing something that I always did back then; anytime I had code with the open bracket I automatically put a close one further down. This way I don't miss closing something and having a hard time locating it.
 
-My [screen shot](./holton-p1-screenshot.png)
+My [screen shot](./images/holton-p1-screenshot.png)
