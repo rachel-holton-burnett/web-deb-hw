@@ -22,4 +22,4 @@ The only thing I forgot was how to add the style to the page. I had to go back a
 Embed a screenshot of your workspace at some point during your development cycle.
 /p>
 <br>
-<img src="./holton-screenshot.jpg" alt="Rachel's Screenshot" title="screenshot" width="700" height="500" />
+<img src="./holton-screenshot.png" alt="Rachel's Screenshot" title="screenshot" width="700" height="500" />
