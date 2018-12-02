@@ -1,0 +1,70 @@
+/* Page-Wide */
+body {
+  background-color: white;
+  font-family: arial;
+  text-align: center;
+}
+
+
+/* Colors */
+.circle {
+  width: 475px;
+  height: 475px;
+  border-radius: 50%
+
+}
+#teal {
+  background-color: #4b7977;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#pink {
+  background-color: #b46d6b;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+#mustard {
+  background-color: #e0aa0c;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+#light-teal {
+  background-color: #7cc4b8;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+/* Image */
+.image {
+  width: 400px;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+     -ms-transform: translate(-50%, -50%); /* IE 9 */
+ -webkit-transform: translate(-50%, -50%); /* Safari 3-8 */
+         transform: translate(-50%, -50%);
+}
+
+/* Text */
+.text-container {
+  background-color: rgba(249, 252, 213, 0.5);
+  width: 800px;
+  position: absolute;
+
+
+  /* Center */
+  top: 15%;
+  left: 50%;
+     -ms-transform: translate(-50%, -50%); /* IE 9 */
+ -webkit-transform: translate(-50%, -50%); /* Safari 3-8 */
+         transform: translate(-50%, -50%);
+}
+h1+p {
+  background-color: #ff9951;
+  color: #black;
+  padding: 6px;
+}
