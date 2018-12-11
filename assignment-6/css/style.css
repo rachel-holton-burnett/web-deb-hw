@@ -1,0 +1,101 @@
+/* Page-Wide */
+* {
+  font-family: 'Roboto', sans-serif;
+}
+body {
+  background-color: #ffd6e1;
+}
+p, a {
+  margin-bottom: 2em;
+  text-decoration: none;
+  color: inherit;
+}
+
+
+/* Separate Text From Page Background for Legibility */
+.text-container {
+  background-color: #FFFFFF;
+  padding: 4em;
+  margin: 3em;
+}
+
+
+/* Title Content */
+#title {
+  text-align: left;
+  margin-bottom: 5em;
+}
+#title h1 {
+  font-size: 5em;
+  letter-spacing: 1px;
+  margin-bottom: 0em;
+  color: #f21a37;
+}
+
+#title h2 {
+  text-transform: uppercase;
+  font-size: 1.3em;
+  margin-top: 1em;
+  color: #e5bf02;
+}
+#title h3 {
+  text-transform: uppercase;
+  font-size: .5em;
+  margin-top: 1em;
+  color: #e5bf02;
+}
+
+#title p::first-line {
+  color: black;
+  vertical-align: center;
+  font-style: italic;
+}
+
+/* Paragraph Content */
+.content {
+  font-size: 1.25em;
+  text-indent: 1.5em;
+  line-height: 1.45em;
+  font-weight: 400;
+}
+
+
+/* Decorative Line Divider */
+.divider {
+  border-bottom: 3px solid rgb(255,200,80);
+  width: 20%;
+  margin: 4em auto;
+}
+
+
+/* "Read More!" Button */
+#button-container {
+  width: 15em;
+  height: 4em;
+  margin: auto;
+}
+.button p {
+  font-size: 1.25em;
+  text-align: center;
+  color: black;
+}
+.button p:active {
+  color: black;
+}
+.button {
+  height: 100%;
+  background-color: #ffe6d1;
+  border-color: #8f8b8b #383636 #383636 #8f8b8b;
+  border-width: 6px 10px 10px 6px;
+  border-style: solid;
+}
+.button:hover {
+  background-image: url('../images/sinkingship.gif');
+  background-size: 50px 60px;
+  background-repeat: no-repeat;
+}
+.button:active {
+  background-color: #ffd6e1;
+  border-color: #383636 #8f8b8b #8f8b8b #383636;
+  border-width: 10px 6px 6px 10px;
+}
