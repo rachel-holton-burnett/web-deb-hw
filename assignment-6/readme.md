@@ -6,4 +6,4 @@ website files and therefore uploaded with your content and a web-safe font is a 
 to have a fall back font incase the font you chose is not supported by the browser. </p>
 <p>I picked colors for this assignment that went with the time that the Titanic sank. I didn't run into many difficulties with this project and enjoyed
 seeing how the code was created for the example to give me a good idea how to structure everything. </p>
-  <img src="./images/screenshot.PNG"/> 
+  <img src="./images/screenshot.JPG"/> 
